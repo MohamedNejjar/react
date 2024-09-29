@@ -1,0 +1,11 @@
+git init : initial reps
+git add fhjd.tzt : add file to the reps
+git commit -m "fdsa" hifd 
+git log : know when change 
+git status : give you status 
+git  diff file.ext : giv you the last  changement  in  this changement 
+: git checkout file.ex :  comback the file to the last commit  
+git rm -catched -r .:remove all the files from the init 
+git branch   newname   : that give  you to do copie to the main file  
+git  checkout  main  : to switch wich file do you want    
+ git merge : to merge  the filis 
